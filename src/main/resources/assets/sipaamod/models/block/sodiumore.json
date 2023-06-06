@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "sipaamod:blocks/sodium_ore",
+        "up": "sipaamod:blocks/sodium_ore",
+        "north": "sipaamod:blocks/sodium_ore",
+        "east": "sipaamod:blocks/sodium_ore",
+        "south": "sipaamod:blocks/sodium_ore",
+        "west": "sipaamod:blocks/sodium_ore",
+        "particle": "blocks/stone"
+    }
+}

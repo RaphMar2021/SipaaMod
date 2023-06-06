@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+	"X": {
+		"item": "sipaamod:sodiumingot"
+	},
+	"#": {
+		"item": "minecraft:stick"
+	}
+  },
+  "result": {
+    "item": "sipaamod:sodiumsword",
+    "count": 1
+  }
+}

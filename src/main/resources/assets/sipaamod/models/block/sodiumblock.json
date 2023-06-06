@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "sipaamod:blocks/sodium_block",
+        "up": "sipaamod:blocks/sodium_block",
+        "north": "sipaamod:blocks/sodium_block",
+        "east": "sipaamod:blocks/sodium_block",
+        "south": "sipaamod:blocks/sodium_block",
+        "west": "sipaamod:blocks/sodium_block",
+        "particle": "blocks/iron_block"
+    }
+}

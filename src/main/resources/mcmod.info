@@ -1,0 +1,16 @@
+[
+	{
+	  "modid": "sipaamod",
+	  "name": "SipaaMod",
+	  "description": "Core mod for Sipaa.",
+	  "version": "${version}",
+	  "mcversion": "${mcversion}",
+	  "url": "",
+	  "updateUrl": "",
+	  "authorList": ["RaphMar2021"],
+	  "credits": "Forge : Mod Loader\nRaphMar2021 : Main Developer",
+	  "logoFile": "",
+	  "screenshots": [],
+	  "dependencies": []
+	}
+]
