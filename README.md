@@ -23,3 +23,5 @@ See [this](https://github.com/users/RaphMar2021/SipaaMod/projects/2/views/1)
 
 ### Where i could download it safely?
 The only trusted sources for SipaaMod is CurseForge (SipaaMod will come to it soon), and this GitHub repository
+
+EDIT : Some CurseForge mods got a malware built-in. SipaaMod will not being on CurseForge. If you see any SipaaMod reupload on these platforms, report to me & CurseForge.
